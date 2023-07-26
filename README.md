@@ -1,3 +1,8 @@
+# Decision Tree / Quiz React App exercise
+
+See exercise at https://www.notion.so/weareacademy/Decision-Tree-Quiz-App-React-6c9a741f48f74b43943710604311de5f
+
+
 # React app (Vite)
 
 ## Installation
