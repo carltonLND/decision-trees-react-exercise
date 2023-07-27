@@ -23,3 +23,8 @@ button {
   text-decoration: line-through;
   opacity: 0.5;
 }
+
+.leaves {
+  display: flex;
+  column-gap: 1rem;
+}
